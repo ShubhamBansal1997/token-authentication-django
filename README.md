@@ -1,5 +1,5 @@
 # Token-Based-Authentication-django
-This repo contains the code used to in the tutorial on the [medium blog](https://medium.com/@shubhambansal_89125/crud-app-using-vue-js-and-django-516edf4e4217)
+This repo contains the code used to in the tutorial on the [medium blog](https://medium.com/@shubhambansal_89125/token-based-authentication-for-django-rest-framework-44586a9a56fb)
 
 # Getting Started
 
